@@ -1,4 +1,4 @@
-Consumer-Goods-Ad-hoc-Insights
+#**Consumer-Goods-Ad-hoc-Insights**
 Company: AtliQ Hardwares
 AtliQ Hardwares is a fictional top computer hardware maker in India with a global reach. The company focuses on using data analytics to make smart, informed decisions..
 
