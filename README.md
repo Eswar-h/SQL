@@ -38,9 +38,8 @@ Presentation: PowerPoint file showcasing insights and recommendations.
 Run the SQL scripts in your MySQL environment to extract the necessary data.
 ## Power BI Visualizations:
 Open the Power BI files in Power BI Desktop to view the visualizations.
-
-Open the Power BI files in Power BI Desktop to view the visualizations.
 ## Presentation:
 Open the PowerPoint file to view the presentation designed for top-level management.
+
 
 This project highlights my skills in data analysis, SQL querying, data visualization, and presentation design in a business setting. It demonstrates my ability to extract and present actionable insights from data, supporting data-driven decision-making in a corporate environment.
